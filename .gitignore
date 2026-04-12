@@ -1,0 +1,9 @@
+# Removes output folder
+/target
+
+# Removes perf data
+*.data
+*.data.old
+
+# Removes flamegraphes
+flamegraph.svg
